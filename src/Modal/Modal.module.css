@@ -1,0 +1,14 @@
+.backDrop {
+  z-index: 10;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(59, 58, 58, 0.7);
+    text-align: center;
+  }
+  
+  .overLay {
+    position: fixed;
+    z-index: 30;
+  }
+  
